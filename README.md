@@ -19,5 +19,5 @@ production: evaluation, failure modes, human control points,
 and the organisational work that decides whether a deployment
 survives its first month.
 
-Practice and case notes → [ace.tfq.one](https://ace.tfq.one)
-Profile → [linkedin.com/in/tewfiq](https://linkedin.com/in/tewfiq)
+- Practice and case notes → [ace.tfq.one](https://ace.tfq.one)
+- Profile → [linkedin.com/in/tewfiq](https://linkedin.com/in/tewfiq)
