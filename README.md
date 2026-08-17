@@ -1,16 +1,23 @@
-## Hi there 👋
+# Tewfiq Ferahi
 
-<!--
-**tewfiq/tewfiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer, Paris. I build and deploy AI products inside
+existing organisations — agents, MCP servers, RAG pipelines,
+workflow automation.
 
-Here are some ideas to get you started:
+**Stack** TypeScript · Next.js · React · Node · Python
+(scripting) · Supabase · Convex · PostgreSQL · Firecrawl ·
+Playwright · n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Where I work** Banking and financial services, public
+sector, energy, telecom. Regulated environments with real
+security and data-governance constraints — BNP Paribas,
+La Banque Postale, DINUM (French PM's Office), EDF, Enedis,
+Orange, Renault.
+
+**What I'm interested in** Getting LLMs from demo to
+production: evaluation, failure modes, human control points,
+and the organisational work that decides whether a deployment
+survives its first month.
+
+Practice and case notes → [ace.tfq.one](https://ace.tfq.one)
+Profile → [linkedin.com/in/tewfiq](https://linkedin.com/in/tewfiq)
